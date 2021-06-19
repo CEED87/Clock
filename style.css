@@ -1,0 +1,120 @@
+#clock {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background-color: rgb(243, 230, 52);
+
+}
+
+#hour {
+  height: 121px;
+  width: 15px;
+  background-color: black;
+  position: absolute;
+  top: 88px;
+  left: 200px;
+  transform-origin: bottom;
+  border-radius: 8px 8px;
+}
+
+#minute {
+  height: 161px;
+  width: 7px;
+  background-color: black;
+  position: absolute;
+  top: 48px;
+  left: 204px;
+  transform-origin: bottom;
+  border-radius: 8px 8px
+}
+
+#second {
+  height: 185px;
+  width: 2px;
+  background-color: black;
+  position: absolute;
+  top: 24px;
+  left: 208px;
+  transform-origin: bottom;
+}
+
+.number {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #09f109;
+  text-align: center;
+  line-height: 50px;
+  font-size: 45px;
+}
+
+#el_clock {
+  position: absolute;
+  height: 40px;
+  width: 140px;
+  top: 125px;
+  left: 138px;
+  font-size: 35px;
+  text-align: center;
+}
+
+#n1 {
+  left: 183px;
+  top: 13px;
+}
+
+#n2 {
+  left: 268px;
+  top: 36px;
+}
+
+#n3 {
+  left: 330px;
+  top: 99px;
+}
+
+#n4 {
+  left: 354px;
+  top: 183px;
+}
+
+#n5 {
+  left: 330px;
+  top: 269px;
+}
+
+#n6 {
+  left: 269px;
+  top: 331px;
+}
+
+#n7 {
+  left: 184px;
+  top: 353px;
+}
+
+#n8 {
+  left: 99px;
+  top: 331px;
+}
+
+#n9 {
+  left: 37px;
+  top: 268px;
+}
+
+#n10 {
+  left: 13px;
+  top: 183px;
+}
+
+#n11 {
+  left: 36px;
+  top: 98px;
+}
+
+#n12 {
+  left: 98px;
+  top: 36px;
+}
